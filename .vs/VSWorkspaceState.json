@@ -1,0 +1,19 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "\u30ED\u30FC\u30AB\u30EB \u30B3\u30F3\u30D4\u30E5\u30FC\u30BF\u30FC": [
+      "out\\build\\x64-debug",
+      "out\\install\\x64-debug",
+      "out\\build\\x64-release",
+      "out\\install\\x64-release",
+      "out\\build\\x86-debug",
+      "out\\install\\x86-debug",
+      "out\\build\\x86-release",
+      "out\\install\\x86-release"
+    ]
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\TakanawaWalker.cpp",
+  "PreviewInSolutionExplorer": false
+}
